@@ -659,7 +659,7 @@
                         <h2></h2>
                         <a class="close" href="doctors.php">&times;</a>
                         <div class="content">
-                            eDoc Web App<br>
+                            Doc-Point Web App<br>
                             
                         </div>
                         <div style="display: flex;justify-content: center;">
